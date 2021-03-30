@@ -1,0 +1,53 @@
+[
+    {
+        "reviews": [], 
+        "ratings": {
+            "2 star": "18%", 
+            "1 star": "9%", 
+            "3 star": "18%", 
+            "5 star": "55%"
+        }, 
+        "price": "\u20b9\u00a0649.00", 
+        "url": "http://www.amazon.in/dp/B01ECQA8KE", 
+        "name": "CURREN Quartz Tungsten Steel Precision Vogue Business Black Gold Men's Big Watch 3ATM Waterproof"
+    }, 
+    {
+        "reviews": [], 
+        "ratings": {
+            "1 star": "11%", 
+            "4 star": "24%", 
+            "3 star": "8%", 
+            "5 star": "57%"
+        }, 
+        "price": "\u20b9\u00a02050.00 - \u20b9\u00a04100.00", 
+        "url": "http://www.amazon.in/dp/B07FDGP4LX", 
+        "name": "Reebok Men's Identity Flex Xtreme Lp Running Shoes"
+    }, 
+    {
+        "reviews": [], 
+        "ratings": {}, 
+        "price": "", 
+        "url": "http://www.amazon.in/dp/B01ETPUQ6E", 
+        "name": "SAMSUNG J7 J700(Boost Mobile) CDMA/GSM/LTE (Band 5) Jio 4G - Single SIM"
+    }, 
+    {
+        "reviews": [], 
+        "ratings": {}, 
+        "price": "", 
+        "url": "http://www.amazon.in/dp/B00U8KSIOM", 
+        "name": "StarTech.com USB 3.0 to VGA Video Adapter On-Board Drivers for Installation Without Internet Connection or CD-ROM Drive (USB32VGAV)"
+    }, 
+    {
+        "reviews": [], 
+        "ratings": {
+            "2 star": "1%", 
+            "1 star": "7%", 
+            "4 star": "13%", 
+            "3 star": "6%", 
+            "5 star": "73%"
+        }, 
+        "price": "\u20b9\u00a08499.00", 
+        "url": "http://www.amazon.in/dp/B074WZJ4MF", 
+        "name": "Samsung T5 Portable SSD - 500GB - USB 3.1 External SSD"
+    }
+]
